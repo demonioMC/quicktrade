@@ -3,6 +3,8 @@
 
 # Quick Trade
 
+<img src="./src/main/resources/assets/quicktrade/icon.png" />
+
 > Streamline villager trading by completing all trades for a specific item with a single click.
 
 ## Features
@@ -31,7 +33,7 @@ Open a villager’s trading interface and use the "Quick Trade" buttons to insta
 
 ## Compatibility
 
-- **Minecraft Version:** 1.21.x
+- **Minecraft Version:** 1.21
 - **Requires:** Fabric Loader and Fabric API.
 
 ## Contributing
