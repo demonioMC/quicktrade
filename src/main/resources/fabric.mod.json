@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "quicktrade",
+	"version": "${version}",
+	"name": "Quick Trade",
+	"description": "Streamline villager trading by completing all trades for an item with a single click.",
+	"authors": [
+		"demonio"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/quicktrade",
+		"sources": "https://github.com/demonio/quicktrade",
+		"issues": "https://github.com/demonio/quicktrade/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/quicktrade/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.demonio.quicktrade.QuickTrade"
+		],
+		"client": [
+			"com.demonio.quicktrade.QuickTradeClient"
+		]
+	},
+	"mixins": [
+		"quicktrade.mixins.json",
+		{
+			"config": "quicktrade.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
