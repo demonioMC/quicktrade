@@ -1,5 +1,5 @@
 <a href="https://fabricmc.net/develop/template/"><img src="https://img.shields.io/badge/Generated%20with-Fabric%20Mod%20Template%20Generator-dbd0b4"/></a>
-<img src="https://img.shields.io/badge/Minecraft-Java%201.21-darkgrey"/>
+<a href="https://www.minecraft.net/en-us/about-minecraft"><img src="https://img.shields.io/badge/Minecraft-Java%201.21-darkgrey"/></a>
 
 # Quick Trade
 
