@@ -3,7 +3,8 @@
 	"package": "com.demonio.quicktrade.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"MerchantScreenMixin",
+		"HandledScreenAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1

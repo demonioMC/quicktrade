@@ -17,6 +17,6 @@ public class QuickTrade implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Quick Trade v1.0.0 has been successfully loaded! Ready to streamline your villager trades.");
 	}
 }
