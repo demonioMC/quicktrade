@@ -1,6 +1,6 @@
 # Quick Trade
 
-> Streamline villager trading by completing all available trades for a single item with just one click.
+> Streamline villager trading by completing all trades for an specific item with a single click.
 
 ## Features
 
