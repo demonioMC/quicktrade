@@ -3,7 +3,7 @@
 	"id": "quicktrade",
 	"version": "${version}",
 	"name": "Quick Trade",
-	"description": "Streamline villager trading by completing all trades for an specific item with a single click.",
+	"description": "Streamline villager trading by completing all trades for a specific item with a single click.",
 	"authors": [
 		"demonio"
 	],
